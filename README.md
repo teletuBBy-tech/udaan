@@ -1,6 +1,6 @@
 
 # उड़ान — Learning-to-Livelihood for Rural India
-# drive link of the video prototype - https://drive.google.com/file/d/1zj-jdx4x-EZ-4asNBBu4zxRLmEYNRGI4/view?usp=sharing
+# youtube link of the video prototype - https://youtu.be/wNsAV1deiWA
 A mobile-first Hindi prototype connecting everyday strengths to career exploration, learning pathways, local opportunity discovery, teacher-created lessons, and family conversations.
 
 > **Honesty note:** This repository is a demonstrator, not a production service. All nearby opportunity records are labelled sample/demo data. It does not contain live vacancies, verified partner listings, real payments, real referrals, a hosted LLM, a production RAG index, or a production student database. Career and skill suggestions are rule-based prototype guidance, not formal assessments.
