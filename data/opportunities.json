@@ -1,0 +1,7 @@
+[
+ {"id":"op1","name":"मोबाइल रिपेयर सीखने का केंद्र","category":"training","career_id":"mobile","source":"डेमो रिकॉर्ड; वास्तविक केंद्र सत्यापित नहीं","verification":"demo_unverified","distance_km":4.2},
+ {"id":"op2","name":"कृषि विज्ञान केंद्र की जानकारी","category":"guidance","career_id":"agritech","source":"डेमो रिकॉर्ड; वास्तविक KVK की पुष्टि नहीं","verification":"demo_unverified","distance_km":8.5},
+ {"id":"op3","name":"सिलाई प्रशिक्षण समूह","category":"training","career_id":"tailor","source":"डेमो रिकॉर्ड; वास्तविक समूह सत्यापित नहीं","verification":"demo_unverified","distance_km":2.8},
+ {"id":"op4","name":"डेयरी सहकारी जानकारी","category":"livelihood","career_id":"dairy","source":"डेमो रिकॉर्ड; वास्तविक सहकारी संस्था सत्यापित नहीं","verification":"demo_unverified","distance_km":3.6},
+ {"id":"op5","name":"स्थानीय दुकान में अनुभव","category":"work_learning","career_id":"retail","source":"डेमो रिकॉर्ड; कोई नौकरी की रिक्ति नहीं","verification":"demo_unverified","distance_km":1.4}
+]
