@@ -260,7 +260,7 @@ This chart maps each visible page to the current implementation, the method used
 
 <img width="8192" height="642" alt="Udaan Browser Demo Platform-2026-10-18-174833" src="https://github.com/user-attachments/assets/fd20a4e3-373e-43ff-bd60-3e0c0c99d857" />
 
-```
+
 
 ### 5.3 Feature-to-technology map
 
@@ -604,7 +604,7 @@ Windows users may prefer PowerShell's `Invoke-RestMethod` for JSON requests.
 
 
 
-## 15. Production roadmap
+## 12. Production roadmap
 
 ### Phase 1 — Pilot foundation
 
@@ -663,7 +663,7 @@ Windows users may prefer PowerShell's `Invoke-RestMethod` for JSON requests.
 
 ---
 
-## 16. Configuration and deployment
+## 13. Configuration and deployment
 
 ### Configuration
 
@@ -695,7 +695,7 @@ The current repository is not production-ready until persistence, authorization,
 
 ---
 
-## 17. Demo walkthrough (2–3 minutes)
+## 14. Demo walkthrough (2–3 minutes)
 
 1. **Talk:** Describe helping with dairy, a shop, tailoring or farm tasks. Review the inferred strengths and edit them.
 2. **Learn:** Open a related career, inspect the pathway and mark a step complete.
@@ -707,7 +707,7 @@ The current repository is not production-ready until persistence, authorization,
 
 ---
 
-## 18. Known limitations
+## 15. Known limitations
 
 - Skill extraction and career matching use rules/keywords, not a hosted LLM or validated aptitude model.
 - The opportunity map is a schematic SVG; coordinates and distances are not authoritative.
